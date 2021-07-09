@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Turbo", "SQL Turbo\SQL Turbo.ssmssqlproj", "{0528D1E2-F6CB-4F91-A046-3708E2076814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0528D1E2-F6CB-4F91-A046-3708E2076814}.Default|Default.ActiveCfg = Default
+		{90E3AA9C-CA99-408F-8BBB-626F7FC0F286}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC495D43-71BE-4E13-B2F9-245055D32DC1}
+	EndGlobalSection
+EndGlobal
